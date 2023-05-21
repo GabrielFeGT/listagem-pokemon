@@ -3,4 +3,4 @@
 ## Projeto básico de HTML, CSS e JS
 * Editando arquivo
 * Testando git
-*Testando git pull
+* Testando git pull
