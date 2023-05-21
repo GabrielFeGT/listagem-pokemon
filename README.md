@@ -1,3 +1,3 @@
 # listagem-pokemon
 
-# Projeto básico de HTML, CSS e JS
+## Projeto básico de HTML, CSS e JS
